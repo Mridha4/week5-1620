@@ -17,3 +17,15 @@
 #theTop {
     color: red;
 }
+
+.span {
+    padding: 0px 5px;
+    border-top: 2px black solid;
+    border-bottom: 4px grey solid;
+}
+
+.p {
+    border: 10px lightgreen ridge;
+    margin: 5px;
+}
+
